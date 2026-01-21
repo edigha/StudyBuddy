@@ -3,7 +3,7 @@ Name: Edigha Emmanuel
 Matric: 24/16012
 Department: Cyber Security
  A web-based study session planner application built as part of the Software Development Life Cycle (SDLC) assignment. The app helps students plan, track, and manage their study sessions effectively.
-
+Github Repo: https://github.com/edigha/StudyBuddy
  Problem Statement
 As a university student, managing study time across multiple subjects can be challenging. Students often struggle with:
 - Planning study sessions for different courses
@@ -104,3 +104,4 @@ Technical Details
 - Create study groups feature
 - Add progress charts and graphs
 - Export study reports
+
